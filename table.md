@@ -1,8 +1,9 @@
-#Table of content:
+# Contents
 
-- [Hello World](#hello-world)
-- [First Item](#first-item)
-- [Second Item](#second-item)
+- [Contents](#contents)
+    - [Hello World](#hello-world)
+    - [First Item](#first-item)
+    - [Second Item](#second-item)
 
  <!-- headings -->
 
@@ -22,3 +23,5 @@
 ### Second Item
 
  Second item content goes here
+
+[top](#Contents)
